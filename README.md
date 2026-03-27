@@ -3,6 +3,7 @@
 🎯 Aspiring AI Engineer  
 📚 BSIT Student focused on Machine Learning and AI  
 🇯🇵 Goal: Study and work in Japan  
+💻 Building my journey step-by-step through real projects
 
 ## 🚀 Current Focus
 - Python & Problem Solving  
@@ -10,7 +11,7 @@
 - Building real-world projects  
 
 ## 🧪 Projects
-- (Will update as I build)
+🚧 Currently building — projects will be updated regularly
 
 ## 📈 Goals
 - Build strong AI projects  
