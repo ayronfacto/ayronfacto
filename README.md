@@ -6,7 +6,7 @@
 
 ## 🚀 Current Focus
 - Python & Problem Solving  
-- Machine Learning fundamentals  
+- Machine Learning Fundamentals  
 - Building real-world projects  
 
 ## 🧪 Projects
